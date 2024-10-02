@@ -9,10 +9,7 @@ import java.util.List;
 import javax.ejb.Local;
 import za.ac.tut.employee.Employee;
 
-/**
- *
- * @author MosesGadebe
- */
+
 @Local
 public interface EmployeeService 
 {
