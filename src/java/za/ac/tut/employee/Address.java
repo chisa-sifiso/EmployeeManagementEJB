@@ -10,10 +10,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/**
- *
- * @author MosesGadebe
- */
 @Entity
 @Table(name="tblAddress")
 public class Address 
