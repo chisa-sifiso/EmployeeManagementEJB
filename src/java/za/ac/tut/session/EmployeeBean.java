@@ -12,10 +12,7 @@ import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
 import za.ac.tut.employee.Employee;
 
-/**
- *
- * @author MosesGadebe
- */
+
 @Stateless
 public class EmployeeBean implements EmployeeService
 {
