@@ -16,7 +16,7 @@
     <li>Java EE (Enterprise Edition)</li>
     <li>EJB (Enterprise JavaBeans)</li>
     <li>JPA (Java Persistence API)</li>
-    <li>GlassFish Application Server</li>
+    <li>tomcate Application Server</li>
     <li>Maven</li>
 </ul>
 
