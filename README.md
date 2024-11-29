@@ -34,7 +34,7 @@
 
 <h2>Setting Up the Project</h2>
 <ol>
-    <li>Clone this repository: <code>git clone https://github.com/username/EmployeeManagementEJB.git</code></li>
+    <li>Clone this repository: <code>git clone https://github.com/chisa-sifiso/EmployeeManagementEJB.git</code></li>
     <li>Import the project into your preferred IDE (e.g., NetBeans, IntelliJ).</li>
     <li>Ensure GlassFish Server is configured in your IDE.</li>
     <li>Build the project using Maven: <code>mvn clean install</code></li>
